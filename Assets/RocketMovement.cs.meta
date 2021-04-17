@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f74e99768d6cb3f4287917c004adffb4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainThrust: {fileID: 8300000, guid: 0ef825a22ec1fbe47b60aa1196a5cf66, type: 3}
+  - levelChange: {fileID: 8300000, guid: 932f259dcb6385b44bf8f8b1a41e2f36, type: 3}
+  - youDied: {fileID: 8300000, guid: 319e670b175801a4c88946661b6c283a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
